@@ -14,7 +14,7 @@ https://genecourtney7.github.io/
 * 
 ## Setup/Installation Requirements
 * Clone this repository to your desktop.
-* open the html file and open with compatible browser. 
+* Open the html file and open with compatible browser. 
 * 
 ## Known Bugs
 * No known Bugs
