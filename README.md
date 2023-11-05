@@ -1,6 +1,6 @@
 # Language Suggester
 #### By _**Mark Courtney**_
-#### __
+#### _Webpage that take user inputs and outputs a suggested programming Language_
 https://genecourtney7.github.io/
 ## Technologies used
 * _HTML_
@@ -11,11 +11,10 @@ https://genecourtney7.github.io/
 * _google.com_
 * _vs code terminal_
 ## Description
-* 
+* Programming Quiz to help suggest which language to learn.
 ## Setup/Installation Requirements
 * Clone this repository to your desktop.
 * Open the html file and open with compatible browser. 
-* 
 ## Known Bugs
 * No known Bugs
 ## license  
