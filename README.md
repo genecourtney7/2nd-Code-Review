@@ -1,7 +1,7 @@
 # Language Suggester
 #### By _**Mark Courtney**_
 #### _Webpage that take user inputs and outputs a suggested programming Language_
-https://genecourtney7.github.io/
+https://genecourtney7.github.io/2nd-Code-Review/
 ## Technologies used
 * _HTML_
 * _CSS_
