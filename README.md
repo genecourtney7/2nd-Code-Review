@@ -1,6 +1,6 @@
 # Language Suggester
 #### By _**Mark Courtney**_
-#### _ _
+#### __
 https://genecourtney7.github.io/
 ## Technologies used
 * _HTML_
